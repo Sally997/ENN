@@ -1,2 +1,2 @@
 # ENN
-Edited Nearest Neighbor from scratch, to remove noise from dataset
+Edited Nearest Neighbor function from scratch, to remove noise from dataset
